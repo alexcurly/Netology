@@ -5,7 +5,7 @@
 * [Работяга]()
 
 ### HW02. Stream API. Потоки, повторные вызовы, основные методы
-* [Работа с числами](StreamAPI/WorkWithNamber)
+* [Работа с числами](StreamAPI/WorkWithNambers)
 * [Перепись населения](StreamAPI/Population_Census)
 
 ### HW03. Потоки ввода-вывода. Работа с файлами. Сериализация

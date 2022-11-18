@@ -9,18 +9,18 @@
 
 ## Блок №3. [«Java Core»](/JavaCore/)
 
-## Блок №4. [«Шаблоны проектирования»](src/main/java/ru/netology/patterns)
+## Блок №4. [«Шаблоны проектирования»]
 
-## Блок №5. [«Многопоточное и функциональное программирование»](src/main/java/ru/netology/multithreading)
+## Блок №5. [«Многопоточное и функциональное программирование»]
 
-## Блок №6. [«Web, Spring & Spring MVC»](src/main/java/ru/netology/web_spring_springmvc)
+## Блок №6. [«Web, Spring & Spring MVC»]
 
-## Блок №7. [«Spring Boot, deployment и инфраструктура»](src/main/java/ru/netology/springboot_deployment_infrastructure)
+## Блок №7. [«Spring Boot, deployment и инфраструктура»]
 
-## Блок №8. [«Хранение данных и организация безопасности»](src/main/java/ru/netology/database_jpa_security)
+## Блок №8. [«Хранение данных и организация безопасности»]
 
-## Курсовой проект 1. [«Сетевой чат»](https://github.com/frepingod/netology-network-chat)
+## Курсовой проект 1. [«Сетевой чат»]
 
-## Курсовой проект 2. [«Сервис перевода денег»](https://github.com/frepingod/netology-transfer-money)
+## Курсовой проект 2. [«Сервис перевода денег»]
 
-## Дипломная работа [«Облачное хранилище»](https://github.com/frepingod/netology-cloud-storage)
+## Дипломная работа [«Облачное хранилище»]

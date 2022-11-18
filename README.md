@@ -3,7 +3,7 @@
 
 # Домашние задания по курсу «Java-разработчик»
 
-## Блок №1. [«Основы Java»](src/main/java/ru/Netology/Java_Basis/)
+## Блок №1. [«Основы Java»](Netology/Java_Basis/)
 
 ## Блок №2. [«Git - система контроля версий»](src/main/java/ru/netology/git)
 

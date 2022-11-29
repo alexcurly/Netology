@@ -2,7 +2,7 @@
 
 ### HW_01. [Лямбда-выражения и функциональные интерфейсы](https://github.com/netology-code/jd-homeworks/tree/master/lambda)
 * [Калькулятор](LamdaFunctions/lambda_calculator)
-* [Работяга]
+* [Работяга](LamdaFunctions/lambda_worker)
 
 ### HW02. Stream API. Потоки, повторные вызовы, основные методы
 * [Работа с числами](StreamAPI/WorkWithNambers)

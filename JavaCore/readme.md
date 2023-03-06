@@ -16,7 +16,7 @@
 * [Многомодульный проект на Gradle]
 
 ### HW05. Работа с файлами CSV, XML, JSON
-* [CSV - JSON парсер. XML - JSON парсер. JSON парсер] (csv_xml_json_parser_maven/)
+* [CSV - JSON парсер. XML - JSON парсер. JSON парсер] (csv_xml_json_parser_maven)
 
 ### HW06. Тестирование кода и Unit-тесты (см. тесты для HW14.1 блока №1 basics)
 * [Использование JUnit + Hamcrest]

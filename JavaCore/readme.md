@@ -13,7 +13,7 @@
 
 ### HW04. Сборка проектов. Maven и Gradle (распологается в отдельных репозиториях)
 * [Многомодульный проект на Maven]
-* [Многомодульный проект на Gradle]
+* [Многомодульный проект на Gradle](core_hw4_gradle_project)
 
 ### HW05. Работа с файлами CSV, XML, JSON
 * [CSV - JSON парсер. XML - JSON парсер. JSON парсер](csv_xml_json_parser_maven)

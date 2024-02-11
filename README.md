@@ -9,7 +9,7 @@
 
 ### Блок №3. [«Java Core»](/JavaCore/)
 
-### Блок №4. [«Шаблоны проектирования»] [ДЗ «1. Многопоточное программирование. Работа с потоками»](https://github.com/netology-code/jd-homeworks/blob/video/multithreading/README.md "Ссылка на GitHub Netologia") (04_template)
+### Блок №4. [«Шаблоны проектирования»](04_template)
 
 ## Блок №5. [«Многопоточное и функциональное программирование»]
 

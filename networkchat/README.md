@@ -1,6 +1,6 @@
-# Курсовой проект «Сетевой чат» 
-#### ([->](https://github.com/netology-code/jd-homeworks/blob/video/diploma/networkchat.md "Ссылка на GitHub Netologia"))
-networkchat.md
+# Курсовой проект «Сетевой чат» ([->](https://github.com/netology-code/jd-homeworks/blob/video/diploma/networkchat.md "Ссылка на GitHub Netologia"))
+
+
 ## Описание проекта
 
 Вам нужно разработать два приложения для обмена текстовыми сообщениями по сети с помощью консоли (терминала) между двумя и более пользователями. 
